@@ -27,7 +27,7 @@ Apasionado de las aplicaciones web y disfrutando de una transición laboral al D
 
 :heartbeat: Me encanta descubrir nuevas formas de automatizar mi trabajo.
 
-:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-rosero-p/)
+:mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Ariel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-rosero-p/)
 </div>
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
