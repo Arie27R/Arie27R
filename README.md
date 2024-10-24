@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://epnecuador-my.sharepoint.com/:i:/g/personal/ariel_rosero_epn_edu_ec/ER2tlcK-IGRPkxZWKWPhVZ8BxIpOLPPjKomz4FMvfA4mPg?e=Uuypf6" width="800"/>
+  <img decoding="async" src="https://epnecuador-my.sharepoint.com/:i:/g/personal/ariel_rosero_epn_edu_ec/ER2tlcK-IGRPkxZWKWPhVZ8BxIpOLPPjKomz4FMvfA4mPg?&download=1" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-rosero-p/)
