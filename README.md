@@ -4,6 +4,12 @@
   <img decoding="async" src="https://epnecuador-my.sharepoint.com/:i:/g/personal/ariel_rosero_epn_edu_ec/ER2tlcK-IGRPkxZWKWPhVZ8BxIpOLPPjKomz4FMvfA4mPg?e=Uuypf6" width="800"/>
 </div>
 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCr6HdsNDgddt6rDGDdNaIpA)
+
+[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.noelia-navarro.com/)
+
 <!--
 **Arie27R/Arie27R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
