@@ -15,8 +15,11 @@
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div id="badges" align="center"> 
-Here are some ideas to get you started:
+<div id="badges" align="left"> 
+  
+### :man_technologist: Sobre mí :
+
+Apasionado de las aplicaciones web y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
