@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariel-rosero-p/)
 
-Te presento una página web que he desarrollado: 👉 [![](https://img.shields.io/badge/Chasqi.io-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chasqi.io/)
+Te presento una página web que he desarrollado: 👉 [![](https://img.shields.io/badge/Chasqi.io-FF5733?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chasqi.ai/)
   
 </div>
 
